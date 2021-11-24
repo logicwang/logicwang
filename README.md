@@ -6,7 +6,6 @@
 ### main：
 * vue3x(Options)； UI：[element];
 * wx-app； UI：[vant-weapp;weui];
-* 
 * js ；
 ### study: 
 * ts；
