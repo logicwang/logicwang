@@ -4,12 +4,14 @@
 
 ### Direction:
 ### main：
-* vue3x(Options)[element];
-* wx-app[vant-weapp;weui];
+* vue3x(Options)； UI：[element];
+* wx-app； UI：[vant-weapp;weui];
+* 
 * js ；
 ### study: 
 * ts；
 * less；
+* 数据可视化:G2plot(https://g2plot.antv.vision/zh/)
 * uni-app(for Android or ios)；
 
 ---
