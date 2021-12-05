@@ -4,9 +4,9 @@
 
 ### Direction:
 ### main：
-* vue3x(Options)； UI：[element];
+* vue3； UI：[element];
 * wx-app； UI：[vant-weapp;weui];
-* js ；
+* js;
 ### study: 
 * ts；
 * less；
