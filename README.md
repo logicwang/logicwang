@@ -4,9 +4,12 @@
 
 ### Direction:
 ### main：
-* vue3； UI：[element];
-* wx-app； UI：[vant-weapp;weui];
+* vue2,vue3； 
+* PC_UI：[element-ui ; element-plus];
+* wx-app
+* wx-app_UI：[vant-weapp;weui];
 * js;
+* node.js(express,koa)
 ### study: 
 * ts；
 * less；
