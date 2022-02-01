@@ -1,6 +1,8 @@
 # 👋  I’m @Jimmy
 * A web front-end beginner.
 * I hope we can work together if we share the same vision.
+* QQ(Group ): 917722581 [Join](https://jq.qq.com/?_wv=1027&k=S3dfwlRT)
+ ---
 
 ### Direction:
 ### main：
