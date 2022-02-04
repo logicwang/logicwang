@@ -24,4 +24,4 @@
 * less;  
 * visualization:[g2polt](https://g2plot.antv.vision/zh/); [echarts](https://echarts.apache.org/);  
 ---
-#### 📫 1064425721@qq.com.
+#### 📫 jimmyrss1102@gmail.com
