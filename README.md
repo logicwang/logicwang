@@ -17,12 +17,11 @@
 * PC_UI：[element-ui,element-plus];
 * wx-app,uni-app(for Android or ios);
 * wx-app_UI：[vant-weapp;weui];
-* node.js(express,koa)
+* node.js(express,koa);  
 ### Study:
 
- * typescript；
-* less；
-* visualization:[g2polt](https://g2plot.antv.vision/zh/); [echarts](https://echarts.apache.org/); 
-* uni-app(for Android or ios)； 
+ * typescript;  
+* less;  
+* visualization:[g2polt](https://g2plot.antv.vision/zh/); [echarts](https://echarts.apache.org/);  
 ---
 #### 📫 1064425721@qq.com.
