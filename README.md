@@ -13,14 +13,11 @@
 
 ### Direction:
 ### Use：
-* vue2,vue3； 
-* PC_UI：[element-ui,element-plus];
-* wx-app,uni-app(for Android or ios);
-* wx-app_UI：[vant-weapp;weui];
+* vue2,vue3;
+* wx-app,uni-app;
 * node.js(express,koa);  
 ### Study:
-
- * typescript;  
+* typescript;  
 * less;  
 * visualization:[g2polt](https://g2plot.antv.vision/zh/); [echarts](https://echarts.apache.org/);  
 ---
