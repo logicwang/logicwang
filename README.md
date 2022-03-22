@@ -10,15 +10,4 @@
 <img width="400Ppx" height="200px" src="https://github-readme-stats.vercel.app/api?username=RSS1102&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=e2a7a2&show_owner=true" />
 
 ---
-
-### Direction:
-### Use：
-* vue2,vue3;
-* wx-app,uni-app;
-* node.js(express,koa);  
-### Study:
-* typescript;  
-* less;  
-* visualization:[g2polt](https://g2plot.antv.vision/zh/); [echarts](https://echarts.apache.org/);  
----
 #### 📫 jimmyrss1102@gmail.com
