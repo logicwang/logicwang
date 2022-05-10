@@ -1,4 +1,4 @@
-# 👋  I’m @Jimmy
+# 👋  I’m Logicwang
 
 * A web worker.
 
