@@ -1,6 +1,6 @@
 # 👋  I’m Logicwang
 
-* A web worker.
+* Just an ordinary front-end beginner
 
 
 <img align="right" width="400Ppx" src="https://pic.rmb.bdstatic.com/bjh/down/99b15364feac6f5cb587e8884b4361cc.gif" />
