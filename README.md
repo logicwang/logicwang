@@ -1,4 +1,4 @@
-# 👋  I’m Logicwang
+# 👋  I’m Ricardo.wang
 
 * Just an ordinary front-end beginner
 
